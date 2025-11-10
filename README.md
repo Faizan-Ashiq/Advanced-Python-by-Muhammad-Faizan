@@ -145,7 +145,9 @@ Copy code
 > python map_filter_reduce.py
 Squared: [1, 4, 9, 16, 25]
 Even: [2, 4]
-Sum: 15
+Sum: 15```
+
+
 🧑‍🏫 About the Instructor
 Muhammad Faizan — a passionate Python mentor, Data Science instructor, and AI researcher.
 At HGPT, Faizan has taught hundreds of students advanced Python topics through hands-on projects, blending clarity with creativity.
@@ -158,4 +160,4 @@ At HGPT, Faizan has taught hundreds of students advanced Python topics through h
 Contributions, corrections, and feedback are always welcome!
 If you have a better approach or a creative example, open a Pull Request or drop an Issue.
 
-<p align="center">Made with 💚 by Muhammad Faizan | HGPT Python Mentor</p> ```
+<p align="center">Made with 💚 by Muhammad Faizan | HGPT Python Mentor</p> 
