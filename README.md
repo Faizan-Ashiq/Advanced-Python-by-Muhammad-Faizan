@@ -10,10 +10,10 @@ This repo contains topics that dive deep into Python’s core power tools like d
 
 Here’s a quick glance at what this repository covers:
 
-### 🔹 1. Cogs and Quags
+### 🔹 1. *Args and **Kwargs
 > Learn how Python structures and modular programming can be used to organize complex codebases — a key concept for large-scale applications.
 
-### 🔹 2. Wall-less Operators
+### 🔹 2. WarlessOperators
 > A fascinating dive into Python’s flexible syntax and operator behavior — exploring hidden tricks, dynamic evaluations, and how “walls” between operators can be made “invisible” for efficient expressions.
 
 ### 🔹 3. Instance, Class, and Static Methods
