@@ -31,7 +31,7 @@ Created as part of my teaching sessions at **HGPT**, it covers both theoretical 
 Learn about **modular architecture** and **command grouping**, improving the scalability of large Python applications.
 
 - How to separate logic into modular “*Args”
-- How quags (quasi-cogs) help with lightweight modular scripting
+- How **kwargs (Args and *Kwargs) help with lightweight modular scripting
 - Real-world structure for organized, extensible codebases
 
 ### 🧩 2. Instance, Class, and Static Methods
